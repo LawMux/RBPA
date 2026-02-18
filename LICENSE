@@ -1,4 +1,4 @@
-                    GNU AFFERO GENERAL PUBLIC LICENSE
+                    GNU AFFERO GENERAL PUBLIC LICENSE (with disclaimer addition)
                        Version 3, 19 November 2007
 
  Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
@@ -661,7 +661,8 @@ For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
 
 
-For clarity, in accordance with Item 16 of the AGPL, THIS SOFTWARE IS PROVIDED 
+
+For clarity, in accordance with Items 15 and 16 of the AGPL, THIS SOFTWARE IS PROVIDED 
 “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED 
 TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. 
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
